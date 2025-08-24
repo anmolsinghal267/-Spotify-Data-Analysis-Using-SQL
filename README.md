@@ -212,10 +212,3 @@ Here’s an updated section for your **Spotify Advanced SQL Project and Query Op
 
 ---
 
-## Contributing
-If you would like to contribute to this project, feel free to fork the repository, submit pull requests, or raise issues.
-
----
-
-## License
-This project is licensed under the MIT License.
